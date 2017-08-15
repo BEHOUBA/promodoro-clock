@@ -1,0 +1,50 @@
+body{
+  background-color: #cce6ff;
+  font-family: 'Lemonada', cursive;
+}
+#timer-box{
+  width: 80%;
+  height: 200px;
+  margin: auto;
+  margin-bottom: 30px;
+  border: 1px solid;
+  font-size: 20px;
+  border-radius: 15px;
+  background-color: #d1e0e0;
+}
+#timer{
+  padding:5px;
+  font-size: 35px;
+}
+
+#setBreak{
+  background-color: #ccffff;
+  height: 210px;
+  border-radius: 30px;
+  border: solid 2px;
+}
+
+#setSessionLength{
+  background-color: #ccffff;
+  height: 210px;
+  border-radius: 30px;
+  border: solid 2px;
+}
+#setB, #setS{
+  font-size: 20px;
+  margin:5px;
+}
+btn{
+  padding: 5px;
+}
+#title{
+  margin: 30px;
+  font-size: 40px;
+  
+}
+#setup{
+  margin: 30px;
+}
+.txt{
+  margin: 15px;
+}
